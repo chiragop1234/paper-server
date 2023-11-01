@@ -4,7 +4,7 @@ server_name="server"
 join_screen=true
 jar_file="paper.jar" # server core file
 min_memory="1G"
-max_memory="2G"
+max_memory="6G"
 server_port="" # std - 25565
 force_chunks_upgrade=false
 
